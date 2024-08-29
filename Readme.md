@@ -184,5 +184,3 @@ gview --help
 This will show the available options and usage examples.
 
 ---
-
-This README should provide all the necessary information to effectively use the `gview` CLI tool. If you have any further questions or need additional functionality, feel free to ask!
