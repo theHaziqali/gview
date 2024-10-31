@@ -1,7 +1,3 @@
-Detailed README file for the `gview` CLI tool, which explains how to use each command:
-
----
-
 # gview CLI Tool
 
 `gview` is a command-line interface (CLI) tool for managing AWS accounts and searching for EC2 instances and IAM users across multiple AWS accounts and regions. It uses a YAML configuration file to store AWS credentials and region information for different accounts.
